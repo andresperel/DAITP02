@@ -1,0 +1,16 @@
+{
+  "name": "andurrias",
+  "version": "1.0.0",
+  "description": "soy god",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "angie.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "tp1": "node angie.js" ,
+    "tp2": "node ./src/ej2.js" ,
+    "tp3": "node ./src/ej3.js"
+
+  }
+}
