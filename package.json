@@ -7,10 +7,17 @@
   "type": "module",
   "main": "angie.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1" ,
-    "tp1": "node angie.js" ,
-    "tp2": "node ./src/ej2.js" ,
-    "tp3": "node ./src/ej3.js"
-
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tp1": "node angie.js",
+    "tp2": "node ./src/ej2.js",
+    "tp3": "node ./src/ej3.js",
+    "tp4": "node ./src/ej4.js",
+    "tp5": "node ./src/ej5.js",
+    "tp6": "node ./src/ej6.js",
+    "tp7": "node ./src/ej7.js",
+    "tp8": "node ./src/ej8.js"
+  },
+  "dependencies": {
+    "currency-map-country": "^1.0.12"
   }
 }
